@@ -1,0 +1,45 @@
+/*Inline and block elements*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, p {
+    background-color: #8fa2b5;
+}
+
+em, strong {
+    background-color: white;
+    margin: 50px;
+    padding: 50px;
+}
+
+h1 {
+    padding: 50px;
+    border: 18px solid #5D6060;
+}
+
+p {
+    padding: 20px 10px 20px 10px; /*clockwise*/
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+span {
+    color: red;
+}
+
+.div {
+    color: #fff;
+    background-color: #5995da;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 100px;
+    box-sizing: border-box;
+    margin: 20px auto;
+}
+

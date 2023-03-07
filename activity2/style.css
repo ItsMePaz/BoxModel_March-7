@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.divone {
+    background-color: pink;
+    padding: 32px;
+    border: 2px solid blue;
+    box-sizing: border-box;
+    margin: 12px;
+}
+
+.divtwo {
+    background-color: #ADD8E6;
+    border: 2px solid purple;
+    box-sizing: border-box;
+    margin-bottom: 48px;
+    
+}
+
+.divthree {
+    background-color: #FFCD9B;
+    padding: 20px;
+    border: 2px solid red;
+    box-sizing: border-box;
+    margin-left: 60%;
+}
