@@ -1,0 +1,29 @@
+* {
+    padding:0;
+    margin: 0;
+}
+
+.head {
+    background-color:aliceblue;
+    margin: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px;
+}
+
+.content {
+    background-color:aliceblue;
+    margin: 8px;
+    padding: 16px 8px 16px 8px;
+}
+
+.button {
+    background-color:aliceblue;
+    text-align: center;
+    padding: 8px;
+    margin: 8px;
+}
+
+.boxbutton {
+    padding: 8px 24px 8px 24px;
+}
